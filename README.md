@@ -5,11 +5,11 @@
 
 ### Run:
   1. From Linux Terminal:
- ./server
- ./client
+   - ./server
+   - ./client
   2. Double click:
-  server.desktop (server file must be in the same directory).
-  client.desktop (cleint file must be in the same directory).
+   - server.desktop (server file must be in the same directory).
+   - client.desktop (cleint file must be in the same directory).
 
   Note: If you received the untrusted launch application message, simply click the Trust and Launch button.
 
