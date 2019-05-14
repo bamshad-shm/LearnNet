@@ -1,11 +1,16 @@
 # LearnNet
 
 ### OS:
-The current version works for Linux (64 bit).
+1. Linux (64 bit)
+2. Windows (64 bit)
 
 ### Run:
 
 #### Linux
+Note: Before running you should give the execution permission to the files as follow:  Right click on the files -> properties -> permissions -> check the "Allow executing file as program".
+
+Note: If you received the untrusted launch application message, simply click the Trust and Launch button.
+
 1. From Linux Terminal:
  - ./server
  - ./client
@@ -13,20 +18,16 @@ The current version works for Linux (64 bit).
  - server.desktop (server file must be in the same directory).
  - client.desktop (cleint file must be in the same directory).
 
-Note: Before running you should give the execution permission to the files as follow:
-Right click on the files -> properties -> permissions -> check the "Allow executing file as program".
-
-Note: If you received the untrusted launch application message, simply click the Trust and Launch button.
 
 #### Windows
+Note: server and client files must be in the same directory as the .dll files are located.
+
 1. From Windows command line:
  - server
  - client
 2. Double click:
  - server
  - client
-
-Note: server and client files must be in the same directory as the .dll files are located.
  
 ### Authentication Info:
 If in the server side the availability policy is set to "Our clients" you must use one of the following users.  
