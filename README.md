@@ -7,8 +7,7 @@
 ### Run:
 
 #### Linux
-Note: Before running you should give the execution permission to the files as follow:<br>  
-Right click on the files -> properties -> permissions -> check the "Allow executing file as program".
+Note: Before running you should give the execution permission to the files as follow:<br>Right click on the files -> properties -> permissions -> check the "Allow executing file as program".
 
 Note: If you received the untrusted launch application message, simply click the Trust and Launch button.
 
