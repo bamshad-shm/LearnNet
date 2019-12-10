@@ -1,8 +1,11 @@
 # LearnNet
 
 ### OS:
-1. Linux (64 bit)
-2. Windows (64 bit)
+
+Please contact me if you faced any problems in case of running the software.
+
+1. Ubuntu 18.04 (64 bit)
+2. Windows 7 (64 bit)
 
 ### Run:
 
