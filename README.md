@@ -2,6 +2,7 @@
 
 ### OS:
 
+Important note: the portability test of the software (specialty for Windows version) is not completed.
 Please contact me if you faced any problems in case of running the software.
 
 1. Ubuntu 18.04 (64 bit)
