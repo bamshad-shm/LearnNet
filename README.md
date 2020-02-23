@@ -5,8 +5,8 @@
 Important note: the portability test of the software (specialty for Windows version) is not completed.
 Please contact me if you faced any problems in case of running the software.
 
-1. Ubuntu 18.04 (64 bit)
-2. Windows 7 (64 bit)
+1. Ubuntu (64 bit)
+2. Windows (64 bit)
 
 ### Run:
 
