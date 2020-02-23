@@ -27,11 +27,11 @@ Note: If you received the untrusted launch application message, simply click the
 Note: server and client files must be in the same directory as the .dll files are located.
 
 1. From Windows command line:
- - server
- - client
+ - a_server
+ - a_client
 2. Double click:
- - server
- - client
+ - a_server
+ - a_client
  
 ### Authentication Info:
 If in the server side the availability policy is set to "Our clients" you must use one of the following users.  
